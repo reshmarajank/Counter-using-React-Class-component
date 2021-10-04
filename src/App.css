@@ -1,0 +1,11 @@
+.counter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btnAction button{
+  margin:0 10px;
+  
+}
